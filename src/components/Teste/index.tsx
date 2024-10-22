@@ -2,7 +2,7 @@ const Teste = ()=>(
 
     <div>
         <h1>Minha Imagem do Google Drive</h1>
-        <img src="https://drive.google.com/uc?export=view&id=1TXh8t4TsWigIQk8S5q70AGPCsdYlh1KC" alt="Descrição da imagem" />
+        <img src="https://drive.google.com/uc?export=view&id=P0B76b3K6dmMZJvwn2y1Gg/lika-2-jpg" alt="Descrição da imagem" />
     </div>
 
 
